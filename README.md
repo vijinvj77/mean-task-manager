@@ -25,7 +25,7 @@ A full-stack task management application using the **MEAN** stack:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/mean-task-manager.git
+git clone https://github.com/vijinvj77/mean-task-manager.git
 
 # Navigate and install dependencies
 cd backend
